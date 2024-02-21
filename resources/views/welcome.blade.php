@@ -6,7 +6,7 @@
 
         <title>PWL 2024</title>
     </head>
-    <body>
+    <body style="background-color: salmon;">
         <h2>Pemrograman Web Lanjut</h2>
         <h2>Semangat Belajar Laravel 10</h2>
     </body>
